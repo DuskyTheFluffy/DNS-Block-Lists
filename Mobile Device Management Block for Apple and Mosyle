@@ -1,12 +1,12 @@
 # Title: Mobile Device Management Block for Apple and Mosyle
 
-0.0.0.0 (\.|^)push\.apple\.com$
-0.0.0.0 (\.|^)mdmenrollment\.apple\.com$
-0.0.0.0 (\.|^)deviceenrollment\.apple\.com$
-0.0.0.0 (\.|^)mdmcert\.download\.apple\.com$
-0.0.0.0 (\.|^)ppq\.apple\.com$
-0.0.0.0 (\.|^)ocsp\.apple\.com$
-0.0.0.0 (\.|^)crl\.apple\.com$
-0.0.0.0 (\.|^)gs\.apple\.com$
-0.0.0.0 (\.|^)albert\.apple\.com$
-0.0.0.0 (\.|^)mosyle\.com$
+0.0.0.0 push.apple.com
+0.0.0.0 mdmenrollment.apple.com
+0.0.0.0 deviceenrollment.apple.com
+0.0.0.0 mdmcert.download.apple.com
+0.0.0.0 ppq.apple.com
+0.0.0.0 ocsp.apple.com
+0.0.0.0 crl.apple.com
+0.0.0.0 gs.apple.com
+0.0.0.0 albert.apple.com
+0.0.0.0 mosyle.com
